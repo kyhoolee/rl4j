@@ -41,3 +41,4 @@ metastore_db
 Word2vec-index/
 *.conf
 *.json
+.sonar/
